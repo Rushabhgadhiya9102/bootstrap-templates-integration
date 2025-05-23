@@ -1,6 +1,7 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./assets/css/main.css";
+import 'App.css'
 import Herosection from "./components/Herosection";
 import Header from "./components/Header";
 import About from "./components/About";
